@@ -2,7 +2,7 @@
 '''
 # Team ID:          < 1518 >
 # Theme:            < Vitarana_drone >
-# Author List:      < Alok Kumar, Aniket Raj, Arpan Das, Aman Harsh >
+# Author List:      < Aman Agrawal, Akshay Kumar saunta, Aman Kumar, Arnab Adhikari >
 # Filename:         < Task_6_VD_1518_position_controller.py >
 
 '''
