@@ -3,7 +3,7 @@
 '''
 # Team ID:          < 1518 >
 # Theme:            < Vitarana_drone >
-# Author List:      < Alok Kumar, Aniket Raj, Arpan Das, Aman Harsh >
+# Author List:      < Aman Agrawal, Akshay Kumar saunta, Aman Kumar, Arnab Adhikari >
 # Filename:         < Task_6_VD_1518_position_controller.py >
 # Functions:        < lat_to_x, long_to_x, stop_func, astar, operate_Astar, Clear_maze, calc, schedule, prep_schedule >
 # Global variables: < dist,x1_lat,x1_long,a1_lat,a1_long,same_alt >
